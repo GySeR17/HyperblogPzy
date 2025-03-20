@@ -2,6 +2,6 @@ Hola este es el archivo historia
 
 De platzi
 
-Jakailadoma tiene 17 años y nacio en internet
+Jakailadoma es una persona que contribuye en este proyecto open source.
 
 Voy a cambiar todo lo que tengo con checkout
